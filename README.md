@@ -28,8 +28,8 @@ This repository is the public place to submit **bug reports, feedback, feature r
 
 | What would you like to share? | Where to start |
 | --- | --- |
-| A bug, crash, or something that doesn't work as expected | [Report a bug](https://github.com/blazegreenhalgh/tilde-feedback/issues/new?template=bug_report.md) |
-| A new feature, workflow idea, or improvement | [Request a feature](https://github.com/blazegreenhalgh/tilde-feedback/issues/new?template=feature_request.md) |
+| A bug, crash, or something that doesn't work as expected | [Report a bug](https://www.github.com/blazegreenhalgh/tilde-feedback/issues/new?template=bug_report.md) |
+| A new feature, workflow idea, or improvement | [Request a feature](https://www.github.com/blazegreenhalgh/tilde-feedback/issues/new?template=feature_request.md) |
 | General feedback, a question, or a small suggestion | [Share feedback](https://github.com/blazegreenhalgh/tilde-feedback/issues/new?title=Feedback%3A%20) |
 
 ## Before you post
