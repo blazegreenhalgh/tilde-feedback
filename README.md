@@ -7,10 +7,6 @@
 <h1 align="center">Tilde feedback</h1>
 
 <p align="center">
-  Help shape a better way to work with files.
-</p>
-
-<p align="center">
   <a href="https://tildeformac.com/"><strong>Visit the website</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/blazegreenhalgh/tilde-feedback/issues">Browse issues</a>
@@ -24,13 +20,9 @@
   </a>
 </p>
 
-## Help make Tilde better
-
-[Tilde](https://tildeformac.com/) is a native file manager and Finder replacement for Mac, with split views, tabs, project Spaces, and custom properties.
+[Tilde](https://tildeformac.com/) is a native file manager and Finder replacement for Mac, with split views, tabs, custom sidebars, live groups, and custom properties.
 
 This repository is the public place to submit **bug reports, feedback, feature requests, and suggestions** for Tilde. Share what's getting in your way, tell me what could work better, or suggest something you'd love to see.
-
-You don't need to write code to contribute. Your experience using Tilde is what matters.
 
 ## Share something
 
